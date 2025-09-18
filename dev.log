@@ -1,0 +1,68 @@
+[33m[nodemon] 3.1.10[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): server.ts src/**/*[39m
+[33m[nodemon] watching extensions: ts,tsx,js,jsx[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 7.2s (1533 modules)
+ GET / 200 in 8067ms
+ ⚠ Cross origin request detected from 168.231.115.219 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 622ms (837 modules)
+ GET /favicon.ico 200 in 720ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 5.2s (1515 modules)
+ GET / 200 in 5880ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 547ms (837 modules)
+ GET /favicon.ico 200 in 636ms
+ ⚠ Cross origin request detected from 168.231.115.219 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 3.8s (1515 modules)
+ GET / 200 in 4501ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 4.4s (1515 modules)
+ GET / 200 in 5657ms
+ GET / 200 in 1284ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 592ms (837 modules)
+ GET /favicon.ico 200 in 684ms
+ ⚠ Cross origin request detected from 168.231.115.219 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+   Reload env: .env.local
+ ✓ Compiled in 757ms (1501 modules)
+ GET / 200 in 121ms
+ GET / 200 in 333ms
+ ✓ Compiled /favicon.ico in 184ms (837 modules)
+ GET /favicon.ico 200 in 251ms
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `npx tsx server.ts`[39m
+> Ready on http://0.0.0.0:3007
+> Socket.IO server running at ws://0.0.0.0:3007/api/socketio
+ ○ Compiling / ...
+ ✓ Compiled / in 6.1s (1515 modules)
+ GET / 200 in 7046ms
